@@ -1,0 +1,50 @@
+.right-content{
+    background: linear-gradient(90deg, rgba(159,157,157,1) 0%, rgba(227,227,227,1) 80%);
+    height: 100vh;
+}
+.left-content{
+    background: #666565;
+    height: 100vh;
+}
+.header{
+    padding-top: 50px;
+}
+.w-65{
+    width: 65%;
+    filter: invert();
+}
+.bingkai{
+    background-color: black;
+    border-radius: 50%;
+    width: 75%;
+    height: 225px;
+    padding-top: 25px;
+}
+#menu {
+    list-style-type: none;
+  }
+  #menu li{
+    margin-top: 20px;
+  }
+#menu a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+#menu a i{
+    color: black;
+}
+#navbar{
+    height: 50px;
+}
+.bg-grey{
+    background: #666565;
+}
+label{
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.form-control{
+    height: 40px;
+}
